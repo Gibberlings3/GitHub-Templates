@@ -1,6 +1,6 @@
 # Choosing a License
 
-When deciding which license to choose for your mod, you should determine whether you want others to be able to **share** (mirror) your mod and **adapt** it (change your mod content and incorporate it into other projects).
+When deciding which license to choose for your mod, you should determine whether you want others to be able to **share** (mirror) your mod and **adapt** it (change your mod content and incorporate it into other projects). The latter is crucial if you want the community to be able to help you maintain the mod.
 
 If you do want to allow these activities, you should figure out if you want to place any conditions on them.  For example, will you permit people to include your mod content in products that can be sold for a profit?  Do you care if your work is properly attributed to you when used in another project?
 
