@@ -1,9 +1,5 @@
 # All Rights Reserved
 
-Choose this license if you don't want your mod content to be mirrored, borrowed, or altered without explicit permission.
+If you don't want your mod content to be mirrored, borrowed, or altered without explicit permission, you don't have to do anything. However, you can make it clear that this is your position by including this [LICENSE.md](LICENSE.md) file in the root directory of your repo or by adding similar text to your readme file.
 
-You should update the content of your LICENSE file to list the author(s) of your mod.
-
-For example:
-    
-    Copyright (c) 2019 Author1, Author2, and Author3
+Having a [maintenance license](../../Maintenance-Template) is critical when choosing this path. It allows the community to keep the mod working once the original authors are no longer around.
