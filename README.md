@@ -4,9 +4,15 @@
 
 Including a LICENSE file in your mod is a good way to let others know what they can and can't do with your mod.  Visit the [License-Templates](License-Templates) folder in this repository to find several common licenses and a guide to help you choose which one to use.
 
-## Maintenance Permissions
+### Maintenance Permissions
 
-It's strongly recommended that you include the file [MAINTENANCE.md](Maintenance-Template/MAINTENANCE.md) in the root directory of your repository to make it clear that maintenance updates are approved regardless of what license your mod is using.
+It's strongly recommended that you include the file [LICENSE-MAINTENANCE.md](Maintenance-Template/LICENSE-MAINTENANCE.md) in the root directory of your repository to make it clear that maintenance updates are approved regardless of what other license your mod is using.
+
+When using a maintenance license in combination with another license, it's recommended to include this information in your readme:
+
+> **Copyright**
+> 
+> This mod is copyright (c) 2019 Author. You are allowed to submit [maintenance updates](Maintenance-Template/LICENSE-MAINTENANCE.md) for this mod. This mod is additionally licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Badges
 
@@ -24,30 +30,26 @@ You can include badges at the top of the README file in your repo to quickly con
 
 `![GitHub All Releases](https://img.shields.io/github/downloads/gibberlings3/itemrevisions/total)`
 
-### License:
-
-If GitHub is able to auto-detect your license, this badge can be used.  Unfortunately, there are a number of license types that GitHub does not detect correctly.  I believe it can identify CC-BY-4.0 and CC-BY-SA-4.0 and some popular software licenses.
-
-![GitHub](https://img.shields.io/github/license/gibberlings3/itemrevisions)
-
-`![GitHub](https://img.shields.io/github/license/gibberlings3/itemrevisions)`
-
 ### Custom - License:
 
-If you can't use the license badge above, you can create a custom badge and write in which license you are using.
+You can create a custom badge and write in the name of the license you are using.
 
-![License](https://img.shields.io/static/v1?label=license&message=%C2%A9&color=red)
+![License](https://img.shields.io/static/v1?label=license&message=All%20Rights%20Reserved&color=red)
 
-`![License](https://img.shields.io/static/v1?label=license&message=%C2%A9&color=red)`
+`![License](https://img.shields.io/static/v1?label=license&message=All%20Rights%20Reserved&color=red)`
 
-![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-4.0&color=green)
+![License](https://img.shields.io/static/v1?label=license&message=CC-BY-4.0&color=green)
 
-`![License](https://img.shields.io/static/v1?label=license&message=CC-BY-NC-4.0&color=green)`
+`![License](https://img.shields.io/static/v1?label=license&message=CC-BY-4.0&color=green)`
 
 ### Custom - Platform:
 
-Custom badges can display whatever information you want, such as which platforms your mod is compatible with.  You can visit [shields.io](https://shields.io/) to find additional badges and make your own custom badges.
+Custom badges can display whatever information you want. You might want to display which platforms your mod is compatible with.
 
 ![Platform](https://img.shields.io/static/v1?label=platform&message=windows%20%7C%20macos%20%7C%20linux&color=informational)
 
 `![Platform](https://img.shields.io/static/v1?label=platform&message=windows%20%7C%20macos%20%7C%20linux&color=informational)`
+
+### Other Badges:
+
+You can visit [shields.io](https://shields.io/) to find additional badges and resources to help you make your own custom badges.
