@@ -1,3 +1,3 @@
-# Maintenance Permissions
+# Maintenance Policy
 
-It's strongly recommended that you include the file [LICENSE-MAINTENANCE.md](LICENSE-MAINTENANCE.md) in the root directory of your repository to make it clear that maintenance updates are approved regardless of what other license your mod is using.
+It's strongly recommended to include the file [MAINTENANCE-NOTICE.md](MAINTENANCE-NOTICE.md) in the root directory of your repository to indicate that maintenance updates can be submitted for your mod.
