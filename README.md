@@ -2,17 +2,31 @@
 
 ## Licenses
 
-Including a LICENSE file in your mod is a good way to let others know what they can and can't do with your mod.  Visit the [License-Templates](License-Templates) folder in this repository to find several common licenses and a guide to help you choose which one to use.
+Including a LICENSE file in your mod is a good way to let others know what they can and can't do with your mod.  Visit the [License-Templates](License-Templates) folder in this repository to find several common licenses and a guide to help you pick one.
 
-### Maintenance Permissions
+### Maintenance Policy
 
-It's strongly recommended that you include the file [LICENSE-MAINTENANCE.md](Maintenance-Template/LICENSE-MAINTENANCE.md) in the root directory of your repository to make it clear that maintenance updates are approved regardless of what other license your mod is using.
+Regardless of which license you choose, you should also establish whether you accept bug fixes, compatibility fixes, and translation updates from the community. You can make this abundantly clear by including the file [MAINTENANCE-NOTICE.md](Maintenance-Template/MAINTENANCE-NOTICE.md) in the root directory of your repository.
 
-When using a maintenance license in combination with another license, it's recommended to include this information in your readme:
+### Readme
+
+In the Copyright section of your readme, you should include your copyright notice and list the maintenance policy and license you have chosen. When using one of the Creative Commons licenses, it's a good idea to link to the human-readable summary of the license on creativecommons.org.
+
+Sample copyright section for a mod licensed under CC-BY-4.0:
 
 > **Copyright**
 > 
-> This mod is copyright (c) 2019 Author. You are allowed to submit [maintenance updates](Maintenance-Template/LICENSE-MAINTENANCE.md) for this mod. This mod is additionally licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
+> This mod is copyright (c) 2019 Author.
+> 
+> You are allowed to submit [maintenance updates](Maintenance-Template/MAINTENANCE-NOTICE.md) for this mod. This mod is additionally licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Sample copyright section for a mod with no license and no permissions granted except for maintenance updates:
+
+> **Copyright**
+> 
+> This mod is copyright (c) 2019 Author.
+> 
+> Content from this mod may not be mirrored, borrowed, or altered without explicit permission. You are allowed to submit [maintenance updates](Maintenance-Template/MAINTENANCE-NOTICE.md) for this mod.
 
 ## Badges
 
